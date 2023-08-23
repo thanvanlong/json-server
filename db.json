@@ -9,9 +9,13 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "check-download": {
-    "id": "123456",
+   "data": {
+      "id": "123456",
     "canDownload": false,
     "title": "Đăng ksy gói để tải xuống",
     "message": "Vui lòng đăng kí gói cước để tải xuống nội dung này"
+   },
+    "errorCode": 200,
+    "message": "Success"
   }
 }
